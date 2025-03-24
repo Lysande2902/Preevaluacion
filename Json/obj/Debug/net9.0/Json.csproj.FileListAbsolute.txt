@@ -1,0 +1,14 @@
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\bin\Debug\net9.0\Json.exe
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\bin\Debug\net9.0\Json.deps.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\bin\Debug\net9.0\Json.runtimeconfig.json
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\bin\Debug\net9.0\Json.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\bin\Debug\net9.0\Json.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.AssemblyInfoInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.AssemblyInfo.cs
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.csproj.CoreCompileInputs.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\refint\Json.dll
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.pdb
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\Json.genruntimeconfig.cache
+C:\Users\yengl\OneDrive - Universidad Tecnológica Metropolitana\Escritorio\venta\Json\obj\Debug\net9.0\ref\Json.dll
